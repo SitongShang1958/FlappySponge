@@ -319,7 +319,7 @@ class _GamePageState extends State<GamePage> {
                                 Navigator.pushNamed(context, '/animation_page');
                               },
                               child: Lottie.asset(
-                                'lib/gifs/fox.json', 
+                                'lib/gifs/sea.json', 
                                 width: 100,
                                 height: 100,
                                 repeat: true,
